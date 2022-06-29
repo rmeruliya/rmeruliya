@@ -1,6 +1,6 @@
 Hi,
 
-My name is Rohan I am a computer science student at university of Windsor interested in Programming especially backend development
+My name is Rohan I am a computer science student at university of Windsor interested in Programming especially backend development. Currenlty leetcoding to get better exposure of data structures and algorithms
 
 Work Experience: 
 
@@ -13,7 +13,7 @@ Work Experience:
 
 Current Project :
 
-Homechef full stack web application (REACTJS, Java, CSS, SQL)
+Path Finding Visualization(python, pygame)
 
 Interests: 
 
