@@ -1,10 +1,12 @@
 Hi,
 
-My name is Rohan I am a computer science student at university of Windsor interested in Programming especially web development.
+My name is Rohan I am a computer science student at university of Windsor interested in Programming especially backend development
 
 Work Experience: 
 
-•	Teaching Assistant at university of windsor for Computer Architecture [September 2021- Present]
+•	Software developer inter at Flinks[Jan 2022 - April 2022]
+
+•	Teaching Assistant at university of windsor for Computer Architecture and Advanced web design [September 2021- Present]
 
 •	Data entry clerk at central transport [March 2021 - present] 
 
@@ -20,4 +22,6 @@ Interests:
 •	Photography
 
 You can reach me through : meruliy@uwindsor.ca | https://www.linkedin.com/in/rohanm654/
+
+Leetcode : https://leetcode.com/rohanm654/
 
