@@ -21,6 +21,8 @@ Interests:
 
 •	Photography
 
+• Leetcoding
+
 You can reach me through : meruliy@uwindsor.ca | https://www.linkedin.com/in/rohanm654/
 
 Leetcode : https://leetcode.com/rohanm654/
