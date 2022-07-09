@@ -4,7 +4,7 @@ My name is Rohan I am a computer science student at university of Windsor intere
 
 Work Experience: 
 
-•	Software developer inter at Flinks[Jan 2022 - April 2022]
+•	Software developer intern at Flinks[Jan 2022 - April 2022]
 
 •	Teaching Assistant at university of windsor for Computer Architecture and Advanced web design [September 2021- Present]
 
