@@ -23,6 +23,10 @@ Interests:
 
 • Leetcoding
 
+Languages:
+
+Java, Python3, C, Html, Css, Javascript, .NET
+
 You can reach me through : meruliy@uwindsor.ca | https://www.linkedin.com/in/rohanm654/
 
 Leetcode : https://leetcode.com/rohanm654/
