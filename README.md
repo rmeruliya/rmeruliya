@@ -19,6 +19,8 @@ Interests:
 
 •	Web Development
 
+•	QA Engineering
+
 •	Photography
 
 • Leetcoding
