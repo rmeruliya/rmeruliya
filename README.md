@@ -1,6 +1,6 @@
 Hi,
 
-My name is Rohan I am a computer science student at university of Windsor interested in Programming especially backend development. Currenlty leetcoding to get better exposure of data structures and algorithms
+My name is Rohan I am a computer science student at university of Windsor interested in Programming especially backend development and testing. Currenlty leetcoding to get better exposure of data structures and algorithms
 
 Work Experience: 
 
